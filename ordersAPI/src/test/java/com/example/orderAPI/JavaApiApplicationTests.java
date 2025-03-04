@@ -9,4 +9,5 @@ class JavaApiApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
 }
